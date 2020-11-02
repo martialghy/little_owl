@@ -53,11 +53,6 @@ Installation à partir de pip3
 
     pip3 install little-owl
 
-Installation à partir du fichier .whl (*Remplacer X.Y.Z par la version*).
-
-::
-
-    pip3 install little_owl-X.Y.Z-py3-none-any.whl
 
 A partir des sources
 """"""""""""""""""""
