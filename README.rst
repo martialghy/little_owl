@@ -80,7 +80,7 @@ Avec la commande :
 
 ::
 
-    pip3 uninstall little_owl
+    pip3 uninstall little-owl
 
     # Supprimer les modules python complémentaires
     # Attention, adapter cette commande si d'autres programmes ont besoin de ces modules
